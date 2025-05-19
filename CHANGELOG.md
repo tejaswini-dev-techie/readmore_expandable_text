@@ -15,4 +15,9 @@
 
 ### Added
 - README updates
+
+## [0.0.3] - 2024-03-19
+
+### Added
+- README updates
  

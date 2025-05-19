@@ -1,6 +1,6 @@
 name: readmore_expandable_text
 description: "A Flutter widget for expandable text with customizable styles and animations."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/tejaswini-dev-techie/readmore_expandable_text
 repository: https://github.com/tejaswini-dev-techie/readmore_expandable_text
 license: MIT

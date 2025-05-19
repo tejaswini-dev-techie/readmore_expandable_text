@@ -34,7 +34,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  readmore_expandable_text: ^0.0.2
+  readmore_expandable_text: ^0.0.3
 ```
 
 ## Usage
