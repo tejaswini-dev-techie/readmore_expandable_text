@@ -1,5 +1,5 @@
 name: readmore_expandable_text
-description: "A Flutter package that provides an expandable text widget with customizable styles and animations. Perfect for displaying long text content with a 'Read More'/'Show Less' functionality."
+description: "A Flutter widget for expandable text with customizable styles and animations."
 version: 0.0.1
 homepage: https://github.com/tejaswini-dev-techie/readmore_expandable_text
 repository: https://github.com/tejaswini-dev-techie/readmore_expandable_text
