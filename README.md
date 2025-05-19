@@ -25,8 +25,8 @@ A Flutter package that provides an expandable text widget with customizable styl
 - Smooth animations
 
 ## Visual Preview
+![readmore_expandable_text_demo](https://github.com/user-attachments/assets/3dbe0f66-4baa-4aea-a844-2684bc4e145d)
 
-https://github.com/user-attachments/assets/a394a888-e197-4f23-be65-fb3eea9e587c
 
 ## Installation
 
