@@ -18,11 +18,15 @@ A Flutter package that provides an expandable text widget with customizable styl
 ## Features
 
 - Expandable and collapsible text with customizable max lines
-- Customizable text styles for both content and expand/collapse button
+- Customizable text styles for both content and the expand/collapse button
 - Customizable expand/collapse icons and colors
 - Customizable button text ("See More"/"See Less")
 - Automatic detection of text overflow
 - Smooth animations
+
+## Visual Preview
+
+https://github.com/user-attachments/assets/a394a888-e197-4f23-be65-fb3eea9e587c
 
 ## Installation
 
